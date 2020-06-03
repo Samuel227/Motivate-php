@@ -1,0 +1,773 @@
+[26-Apr-2019 21:20:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=1395 in /app/public/wp-includes/wp-db.php on line 2007
+[30-Apr-2019 00:29:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/website-theme/index.php on line 3
+[30-Apr-2019 00:38:48 UTC] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/website-theme/index.php on line 12
+[30-Apr-2019 00:38:49 UTC] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/website-theme/index.php on line 12
+[30-Apr-2019 00:39:03 UTC] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/website-theme/index.php on line 12
+[30-Apr-2019 00:39:08 UTC] PHP Warning:  Use of undefined constant description - assumed 'description' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/website-theme/index.php on line 12
+[30-Apr-2019 00:59:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/website-theme/index.php on line 13
+[30-Apr-2019 00:59:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/website-theme/index.php on line 13
+[30-Apr-2019 00:59:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /app/public/wp-content/themes/website-theme/index.php on line 13
+[30-Apr-2019 01:00:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /app/public/wp-content/themes/website-theme/index.php on line 13
+[30-Apr-2019 01:11:23 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 01:11:48 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 01:11:50 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 01:11:57 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 01:11:58 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 01:12:02 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 01:12:27 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE), expecting ',' or ';' in /app/public/wp-content/themes/website-theme/index.php on line 16
+[30-Apr-2019 02:14:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/website-theme/functions.php on line 4
+[30-Apr-2019 02:48:02 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /app/public/wp-content/themes/website-theme/functions.php on line 4
+[30-Apr-2019 03:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:01:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:04:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:04:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:06:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:13:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:16:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:49:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:50:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 03:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:02:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:04:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:05:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:07:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:15:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:27:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 04:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:28:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=29140 in /app/public/wp-includes/wp-db.php on line 2007
+[30-Apr-2019 11:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:29:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:30:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:41:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:95
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 95
+[30-Apr-2019 11:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:57:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:58:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 11:58:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:00:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:03:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:94
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 94
+[30-Apr-2019 12:12:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:96
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 96
+[30-Apr-2019 12:13:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:97
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 97
+[30-Apr-2019 12:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:97
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 97
+[30-Apr-2019 12:14:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 293
+[30-Apr-2019 12:16:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 293
+[30-Apr-2019 12:16:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 293
+[30-Apr-2019 12:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[30-Apr-2019 12:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[30-Apr-2019 12:18:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[30-Apr-2019 12:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[01-May-2019 14:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[01-May-2019 14:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[01-May-2019 14:55:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[06-May-2019 13:12:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[06-May-2019 16:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_file_url() in /app/public/wp-content/themes/website-theme/index.php:98
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/website-theme/index.php on line 98
+[06-May-2019 18:57:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=3170 in /app/public/wp-includes/wp-db.php on line 2007
